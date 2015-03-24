@@ -1,0 +1,9 @@
+[user]
+	name = Aldo Iljazi
+	email = ylrxeidx@openmailbox.org
+[core]
+	editor = scratch-text-editor
+[color]
+	ui = always
+[credential]
+	helper = cache --timeout=3600
