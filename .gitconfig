@@ -2,7 +2,7 @@
 	name = Aldo Iljazi
 	email = ylrxeidx@openmailbox.org
 [core]
-	editor = scratch-text-editor
+	editor = atom
 [color]
 	ui = always
 [credential]
